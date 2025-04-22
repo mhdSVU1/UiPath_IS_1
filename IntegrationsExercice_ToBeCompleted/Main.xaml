@@ -144,7 +144,7 @@
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
             </scg:Dictionary>
           </sap:WorkflowViewStateService.ViewState>
-          <ui:LogMessage DisplayName="Log Message - No connector argument provided" sap:VirtualizedContainerService.HintSize="382,115" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Warn" Message="[&quot;No connector argument provided!&quot;]" />
+          <ui:LogMessage DisplayName="Log Message - No connector argument provided" sap:VirtualizedContainerService.HintSize="382,115" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Warn" Message="[&quot;No connector argument provided!!!&quot;]" />
         </Sequence>
       </If.Else>
     </If>
